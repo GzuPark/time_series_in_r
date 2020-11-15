@@ -1,0 +1,6 @@
+.DS_Store
+.Rhistory
+*.tar*
+Diabetes-Data/*
+images/*
+exercise.R
